@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/menu_main_group_storage">
+        <item
+            android:icon="@drawable/ic_storage_24dp"
+            android:title="" />
+        <item
+            android:icon="@drawable/ic_sd_storage_24dp"
+            android:title=""
+            android:visible="false"/>
+    </group>
+    <group android:id="@+id/menu_main_group_app_storage_location">
+        <item
+            android:id="@+id/menu_main_storage_location"
+            android:icon="@drawable/ic_baseline_settings_24"
+            android:title=""/>
+    </group>
+    <group android:id="@+id/menu_main_group_details">
+        <item
+            android:id="@+id/menu_main_about"
+            android:icon="@drawable/ic_round_info_24"
+            android:title="@string/about" />
+    </group>
+
+</menu>

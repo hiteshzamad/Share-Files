@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Share Files</string>
+    <string name="send">Send</string>
+    <string name="receive">Receive</string>
+    <string name="todo">TODO</string>
+    <string name="empty_folder">Empty Folder</string>
+    <string name="selected">Selected</string>
+    <string name="deselect_all">Deselect All</string>
+    <string name="select_all">Select All</string>
+    <string name="device_name">Device Name</string>
+    <string name="enter_device_name">Enter Device Name</string>
+    <string name="connecting">Connecting</string>
+    <string name="image">Image</string>
+    <string name="remove_all">Remove All</string>
+    <string name="sort_by">Sort by</string>
+    <string name="made_in_india">Made in India</string>
+    <string name="version">Version 2.3</string>
+    <string name="developed">Developed by Developers Zamad</string>
+    <string name="about">About</string>
+    <string name="processing">Processing</string>
+    <string name="recent">Recent</string>
+    <string name="open">Open</string>
+    <string name="name_a_to_z">Name (A to Z)</string>
+    <string name="name_z_to_a">Name (Z to A)</string>
+    <string name="modified_oldest_first">Modified (Oldest First)</string>
+    <string name="modified_newest_first">Modified (Newest First)</string>
+    <string name="size_smallest_first">Size (Smallest First)</string>
+    <string name="size_largest_first">Size (Largest First)</string>
+    <string name="empty">Empty</string>
+    <string name="start_ftp">Start FTP</string>
+    <string name="password_protected">Password Protected</string>
+    <string name="portable">Portable</string>
+    <string name="ftp">FTP</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="channel_name_ftp">FTP Notification</string>
+    <string name="transfer_files_to_pc">Transfer files to PC</string>
+    <string name="transfer_file_from_your_device_to_pc_on_same_wifi_network">Transfer your device files to your PC wirelessly</string>
+    <string name="next">Next</string>
+    <string name="connect_your_device_and_pc_to_same_wifi_network">Make sure your device and PC are connected to same wifi network</string>
+    <string name="connect">Connect</string>
+    <string name="there_are_two_modes_to_connect_nportable_to_connect_fast_npassword_protected_secure_connection">There are two modes to connect \nPortable - To Connect Fast \nPassword Protected - Secure Connection</string>
+    <string name="got_it">Got It</string>
+    <string name="method">Method</string>
+    <string name="enter_url_in_pc_web_browser_in_password_protected_mode_enter_username_and_password_when_asked">Enter the url shown on your device on any web browser of your PC. In password protected mode enter same username and password you set on your device to your PC.</string>
+    <string name="help">Help</string>
+    <string name="storage_location">Storage Location</string>
+</resources>
+
+
